@@ -1,0 +1,28 @@
+{
+  "name": "taskily",
+  "version": "1.0.0",
+  "description": "gestor de proyectos, tareas y asignaciones.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramon-Ventura/taskily.git"
+  },
+  "keywords": [
+    "gestor",
+    "proyectos",
+    "tareas",
+    "asignaciones"
+  ],
+  "author": "Ramon Humberto Ventura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramon-Ventura/taskily/issues"
+  },
+  "homepage": "https://github.com/Ramon-Ventura/taskily#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
